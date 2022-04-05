@@ -5,21 +5,34 @@ using System.Text;
 using System.Threading.Tasks;
 using GemBox.Document;
 using GemBox.Pdf;
+using System.IO;
 
 namespace MergePdf
 {
     class Program
     {
-        static void Main(string[] args)
+        public static string Main(string[] args)
         {
             // лицензирование GemBox
             GemBox.Document.ComponentInfo.SetLicense("FREE-LIMITED-KEY");
             GemBox.Pdf.ComponentInfo.SetLicense("FREE-LIMITED-KEY");
 
+            Stream stream;
+
+            using (stream = new FileStream(@"C:\Users\Выймова Елена\Documents\InputDocMerge.docx", FileMode.Open))
+            {
+                if (stream.CanRead)
+                    Console.WriteLine("Stream supports opening.");
+                else
+                    Console.WriteLine("Stream does not support opening.");
+
+                stream.Close();
+            }
+
             // исходный массив с файлами
             var fileNames = new string[]
             {
-                @"C:\Users\Выймова Елена\Documents\InputDocMerge.docx",
+                args[0],
                 @"C:\Users\Выймова Елена\Documents\InputPdfMerge.pdf",
                 @"C:\Users\Выймова Елена\Documents\InputPdfMerge2.pdf"
             };
@@ -37,7 +50,8 @@ namespace MergePdf
             MergeFiles(fileNames);
 
             Console.WriteLine("Saving pdf done");
-            Console.ReadLine();
+
+            return @"C:\Users\Выймова Елена\Documents\MergeFiles.pdf";
         }
 
         static string SaveDoc(string destFileName)

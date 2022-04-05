@@ -13,3 +13,18 @@ C:\Users\Выймова Елена\Desktop\Материалы для работ�
 C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\Объединение файлов в pdf\MergePdf\MergePdf\obj\Debug\MergePdf.csproj.CopyComplete
 C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\Объединение файлов в pdf\MergePdf\MergePdf\obj\Debug\MergePdf.exe
 C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\Объединение файлов в pdf\MergePdf\MergePdf\obj\Debug\MergePdf.pdb
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\MergePdf.exe.config
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\MergePdf.exe
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\MergePdf.pdb
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\GemBox.Document.dll
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\GemBox.Pdf.dll
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\Pkcs11Interop.dll
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\GemBox.Document.xml
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\GemBox.Pdf.xml
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\bin\Debug\Pkcs11Interop.xml
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\obj\Debug\MergePdf.csproj.AssemblyReference.cache
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\obj\Debug\MergePdf.csproj.CoreCompileInputs.cache
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\obj\Debug\MergePdf.csproj.CopyComplete
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\obj\Debug\MergePdf.exe
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Merge-PDF\MergePdf\obj\Debug\MergePdf.pdb
